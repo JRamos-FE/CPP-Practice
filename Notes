@@ -1,0 +1,12 @@
+Chapter 1
+	Section 1.1
+* Every C++ program constains one or more functions, one of which must be named main
+* A function definition has four elements: return type, function name parameter list and function 	body
+* Built n type; One of the types the language defines
+* Function body; A block of statements starting with an open curly brace and ending with a close curly
+* When a return staetment includes a value, the value returned must have a type that is compatible with the return type of the function
+* The value returned from main is the status inficator, a return value of 0 indicates success. A nonzero return has a meaning that is defined by the system
+* Types; Types are one of the most fundamental concepts in programming. A type defines both the contents of a data elements and the operations that are possible on those data. The data our programs manipulate are stored in variables and every variable has a type. When the type of a variable named v is T, we often say that 'v has type T' or, interchangably, that 'v is a T'
+* Source Files; Program files
+* 
+
